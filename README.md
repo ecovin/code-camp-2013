@@ -8,5 +8,6 @@ Coby Johnson
 Josh Higgins
 
 Graphic Designers:
-Zach Wright
 Max Young
+
+Project Leader/Professional/Code_Pro
